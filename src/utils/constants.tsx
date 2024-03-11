@@ -1,0 +1,20 @@
+export const Constants = {
+  // Buttons
+  SIGNIN: 'Sign In',
+  VERIFY: 'Verify',
+  SIGNUPUSER: 'Sign Up As A User',
+  SIGNUPCORPORATE: 'Sign Up As a Corporate',
+  SIGNUP: 'Sign up',
+  SUBMIT: 'Submit',
+  CANCEL: 'Cancel',
+  CONFIRM: 'Confirm',
+  ADD: 'Add',
+  PROCEED: 'Proceed',
+  PAY: 'Pay',
+  OKAY: 'Okay',
+  EDIT: 'Edit',
+  SAVE: 'Save',
+  REMOVE: 'Remove',
+  ADDBANKACC: 'Add More Bank Account',
+  SWITCH: 'Switch',
+};
